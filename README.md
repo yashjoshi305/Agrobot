@@ -6,7 +6,7 @@ I was working for _**Mechanical Modue**_ which included the complete physical de
 The complete physical structure is broadly divided into 4 major parts 
 1. CHASSIS
 1. DRIVE MODULE
-1. WEEDER
+1. WEEDER (WEED-REMOVER)
 1. SPRAYER
 
 ## My Contribution
@@ -19,5 +19,13 @@ Planetary gearbox has following application-
   * Transform torque
   * Transform Speed/RPM
 
-
 ![DRIVE MODULE](https://github.com/yashjoshi305/Agrobot/blob/main/drive%20module.png)
+
+
+
+####  _**Weeder**_
+* First prototype - It consisted of a high rpm motor connected with pair of fibre string / blades of cutter. It is surrounded by two toothed wheels to uproot weeds
+Bot consist of 2 cutter and 4 toothed wheels
+* Final design - A spraying channel supporing a flow pipe and ending at different nozzles
+
+![WEEDER]()
