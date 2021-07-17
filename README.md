@@ -36,7 +36,8 @@ Bot consist of 2 cutter and 4 toothed wheels
 * 1st prototype- Two sprayers are mounted at the back of the bot. It functions by using a water pump, pumping the liquid to the spraying nozzle.  
 * 2nd Prototupe- A spraying channel supporing a flow pipe and ending at different nozzles.
 
+![SPRAYER](https://github.com/yashjoshi305/Agrobot/blob/main/sprayer.png)
 
 
-
+####  _**Final design**_
 
