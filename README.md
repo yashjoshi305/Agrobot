@@ -9,6 +9,10 @@ The complete physical structure is broadly divided into 4 major parts
 1. WEEDER (WEED-REMOVER)
 1. SPRAYER
 
+## CAD models
+* [VERSION 1](https://drive.google.com/file/d/1DSvGwgMKFWEPXGBqJQIutJFWg1mQwyFU/view?usp=sharing)
+* [VERSION 2](https://drive.google.com/file/d/1RcgLN1IOJ73t39RSo8Nc9bugH0aBa1YI/view?usp=sharing)
+
 ## My Contribution
 Designing the complete _drive module_ , _weeder_ , _sprayer_. Designing of _chassis_ was taken care of my project partner.
 
