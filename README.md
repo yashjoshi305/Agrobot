@@ -24,8 +24,19 @@ Planetary gearbox has following application-
 
 
 ####  _**Weeder**_
-* First prototype - It consisted of a high rpm motor connected with pair of fibre string / blades of cutter. It is surrounded by two toothed wheels to uproot weeds
+* Initial prototype - It consisted of a high rpm motor connected with pair of fibre string / blades of cutter. It is surrounded by two toothed wheels to uproot weeds
 Bot consist of 2 cutter and 4 toothed wheels
-* Final design - A spraying channel supporing a flow pipe and ending at different nozzles
+* Final design - A frame supporting two perpendicular rack and pinion on which is mounted a linear actuator which finally holts the cutting motor and blades (made of thin fibre)
 
-![WEEDER]()
+![WEEDER](https://github.com/yashjoshi305/Agrobot/blob/main/weeder.png)
+
+
+
+####  _**Sprayer**_
+* 1st prototype- Two sprayers are mounted at the back of the bot. It functions by using a water pump, pumping the liquid to the spraying nozzle.  
+* 2nd Prototupe- A spraying channel supporing a flow pipe and ending at different nozzles.
+
+
+
+
+
