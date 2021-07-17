@@ -2,9 +2,22 @@
 A bot designed for performing basic agricultural task (weeding and spraying)
 I was working for _**Mechanical Modue**_ which included the complete physical designing of the bot.
 
-### Sub divisions
+## Sub divisions
 The complete physical structure is broadly divided into 4 major parts 
+1. CHASSIS
+1. DRIVE MODULE
+1. WEEDER
+1. SPRAYER
+
+## My Contribution
+Designing the complete _drive module_ , _weeder_ , _sprayer_. Designing of _chassis_ was taken care of my project partner.
+
+####  _**Drive module**_
+Complete bot is mounted on 4 such drive modules making our bot a 4-wheel driven bot
+It consists of a DC motor that drives the wheel through a two-stage transmission. First stage is the chain drive and then the in-wheel planetary gearbox.
+Planetary gearbox has following application-
+  * Transform torque
+  * Transform Speed/RPM
 
 
-
-![DRIVE MODULE](https://github.com/yashjoshi305/Agrobot/blob/main/drive%20module.JPG)
+![DRIVE MODULE](https://github.com/yashjoshi305/Agrobot/blob/main/drive%20module.png)
