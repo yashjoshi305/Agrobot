@@ -50,6 +50,5 @@ Bot consist of 2 cutter and 4 toothed wheels
 Culminating the all the modules we got the final design
 
 ![FINAL DESIGN](https://github.com/yashjoshi305/Agrobot/blob/main/final.png)
-
 ### _**Power solution**_
 * from page 5 of [this report](https://github.com/yashjoshi305/Agrobot/blob/main/Agrobot-mechanical-report.pdf)
