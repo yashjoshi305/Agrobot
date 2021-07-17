@@ -40,4 +40,5 @@ Bot consist of 2 cutter and 4 toothed wheels
 
 
 ####  _**Final design**_
-
+Culminating the all the modules we got the final design
+![FINAL DESIGN](https://github.com/yashjoshi305/Agrobot/blob/main/final.png)
