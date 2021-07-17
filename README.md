@@ -14,7 +14,7 @@ The complete physical structure is broadly divided into 4 major parts
 * [VERSION 2](https://drive.google.com/file/d/1RcgLN1IOJ73t39RSo8Nc9bugH0aBa1YI/view?usp=sharing)
 
 ## Complete report of mechanical
-* [REPORT]()
+* [REPORT](https://github.com/yashjoshi305/Agrobot/blob/main/Agrobot-mechanical-report.pdf)
 
 ## My Contribution
 Designing the complete _drive module_ , _weeder_ , _sprayer_. Designing of _chassis_ was taken care of my project partner.
@@ -48,4 +48,8 @@ Bot consist of 2 cutter and 4 toothed wheels
 
 ####  _**Final design**_
 Culminating the all the modules we got the final design
+
 ![FINAL DESIGN](https://github.com/yashjoshi305/Agrobot/blob/main/final.png)
+
+### _**Power solution**_
+* from page 5 of [this report](https://github.com/yashjoshi305/Agrobot/blob/main/Agrobot-mechanical-report.pdf)
